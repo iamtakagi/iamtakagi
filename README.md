@@ -6,7 +6,7 @@
 🎮 Playing MK8DX
 
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
-FrontEnd Framework: Vue, React\
+FrontEnd: Framework: Vue, React\
 Editor: VSCode
 
 <a href="https://github.com/iamtakagi">
