@@ -6,7 +6,7 @@
 
 📺 Watching Japanese Anime on DTV\
 🎮 Playing MK8DX 🚗\
-💻 Coding something\
+🖥 Coding something\
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
 Editor: VSCode, Intellij IDEA
