@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/iam_takagi?style=social)](https://twitter.com/iam_takagi)
 
 📺 Watching Japanese Anime on DTV\
-🎮 Playing MK8DX
+🎮 Playing MK8DX 🚗
 
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd: Framework: Vue, React\
