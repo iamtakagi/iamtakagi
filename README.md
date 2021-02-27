@@ -6,7 +6,7 @@
 🎮 Playing Games
 
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
-FrontEnd Framewrok: Vue, React\
+FrontEnd Framework: Vue, React\
 Editor: VSCode
 
 <a href="https://github.com/iamtakagi">
