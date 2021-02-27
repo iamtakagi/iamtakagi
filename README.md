@@ -1,3 +1,14 @@
+[![GitHub followers](https://img.shields.io/github/followers/iamtakagi?style=social)](https://github.com/iamakagi)
+[![GitHub User's stars](https://img.shields.io/github/stars/iamtakagi?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/iamtakagi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iam_takagi?style=social)](https://twitter.com/iam_takagi)
+
+📺 Watching Japanese Anime on DTV\
+🎮 Playing Games
+
+Language: Kotlin, Java, TypeScript, JavaScript, Python\
+FrontEnd Framewrok: Vue, React\
+Editor: VSCode
+
 <a href="https://github.com/iamtakagi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtakagi&show_icons=true&count_private=true&theme=tokyonight&custom_title=Statistics" title="GitHub Stats Car">
 </a>
