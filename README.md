@@ -4,8 +4,8 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-📺 Watching Japanese Anime on DTV\
-🎮 Playing MK8DX 🚗 (150cc Lounge Staff & Bikumin Bot)\
+📺 Watching Japanese Anime\
+🎮 Playing something games\
 🖥 Coding something\
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
