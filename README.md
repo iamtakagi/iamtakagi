@@ -4,8 +4,8 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-📺 Watching Japanese Anime\
-🎮 Playing something games\
+📺 Watching Japanese anime\
+🎮 Playing Something games\
 🖥 Coding something\
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
