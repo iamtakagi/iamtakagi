@@ -5,7 +5,7 @@
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
 📺 Watching Japanese anime\
-🎮 Playing Something games\
+🎮 Playing MK8DX (noob)\
 🖥 Coding something\
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
