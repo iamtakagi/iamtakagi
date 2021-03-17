@@ -4,7 +4,7 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-## My Hobbies (noob)
+## My Hobbies
 📺 Watching Japanese anime\
 🎮 Playing MK8DX\
 🖥 Coding something\
