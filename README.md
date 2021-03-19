@@ -4,10 +4,10 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-## My Hobbies
-📺 Watching Japanese anime\
-🎮 Playing MK8DX\
-🖥 Coding something\
+## Hobby
+アニメとマリオカート
+
+## My Languages
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
 Editor: VSCode, Intellij IDEA
