@@ -4,8 +4,11 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
+## 人間
+しがない学生をやっています。
+
 ## 趣味
-アニメとマリオカート
+アニメとマリオカートを嗜んでいます
 
 ## 言語
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
