@@ -4,7 +4,8 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-19歳 しがない学生です。マリオカート/アニメ/日向坂46 好きです。
+自己紹介: 19歳 しがない学生やってます。\
+好きなもの: マリオカート/アニメ/日向坂46
 
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
