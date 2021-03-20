@@ -4,7 +4,7 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-自己紹介: 19歳 しがない学生やってます。\
+自己紹介: 2001年9月19日生まれ 19歳 おとめ座 血液型O型 しがない学生やってます。\
 好きなもの: マリオカート/アニメ/日向坂46
 
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
