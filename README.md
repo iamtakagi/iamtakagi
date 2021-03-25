@@ -4,8 +4,7 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-2001年9月19日 神奈川県で誕生 19歳 おとめ座 血液型O型 神奈川県在住 しがない学生やってます。
-最近はテレビを見て生きています。
+2001年9月19日 爆誕
 
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
