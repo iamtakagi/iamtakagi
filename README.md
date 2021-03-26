@@ -4,7 +4,7 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-2001年9月19日 爆誕
+2001年9月19日 爆誕 友達はいません...
 
 Language: Kotlin, Java, TypeScript, JavaScript, Python\
 FrontEnd Framework: Vue, React\
