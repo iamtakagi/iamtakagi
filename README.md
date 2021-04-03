@@ -4,7 +4,7 @@
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/iamtakagi)](https://keybase.io/iamtakagi)
 
-Language: Kotlin, Java, TypeScript, JavaScript, Python\
+Language: Kotlin, TypeScript, Python\
 FrontEnd Framework: Vue, React\
 Editor: VSCode, Intellij IDEA
 
