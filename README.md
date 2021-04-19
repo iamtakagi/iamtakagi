@@ -11,3 +11,7 @@ Editor: VSCode, Intellij IDEA
 <a href="https://github.com/iamtakagi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtakagi&show_icons=true&count_private=true&theme=tokyonight&custom_title=Statistics" title="GitHub Stats Car">
 </a>
+
+<a href="https://annict.jp/@Takagi">
+  <img align="center" src="https://annict-card.starry.blue/watching/Takagi" title="Annict Watching Card">
+</a>
