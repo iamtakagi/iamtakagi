@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ThemeSwitch from "../components/ThemeSwitch";
 
 const accounts = [
   {
@@ -61,7 +60,7 @@ const IndexPage: React.VFC<{}> = () => {
   const accountList = accounts.map((account, i) => (
     <li className="text-sm" key={i}>
       {account.name}:{" "}
-      <a className="underline" href={account.url}>
+      <a className="underline text-blue-500" href={account.url}>
         {account.label}
       </a>
     </li>
@@ -69,7 +68,7 @@ const IndexPage: React.VFC<{}> = () => {
 
   const productList = products.map((product, i) => (
     <li className="text-sm" key={i}>
-      <a className="underline" href={product.url}>
+      <a className="underline text-blue-500" href={product.url}>
         {product.label}
       </a>
       : {product.description}
@@ -77,16 +76,7 @@ const IndexPage: React.VFC<{}> = () => {
   ));
 
   return (
-    <div className="container mx-auto text-left">
-      <div className="mt-5">
-        <ThemeSwitch />
-      </div>
-
-      <div className="desc w-full my-6 space-y-1">
-        <p className="text-xl">iamtakagi.net</p>
-        <p className="text-sm">Welcome. (⋈◍＞◡＜◍)。✧♡</p>
-      </div>
-
+    <div>
       <div className="desc w-full my-6 space-y-1 text-left">
         <p className="text-sm">プログラミングとゲームとアニメと音楽が好き。</p>
       </div>
