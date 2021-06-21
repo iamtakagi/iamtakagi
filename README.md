@@ -1,4 +1,5 @@
 # iamtakagi.net
+
 🍨 Website of iamtakagi.net
 
 [![CI/CD](https://github.com/iamtakagi-net/iamtakagi.net/actions/workflows/ci.yml/badge.svg)](https://github.com/iamtakagi-net/iamtakagi.net/actions/workflows/ci-cd.yml)
