@@ -29,10 +29,22 @@ class Document extends NextDocument {
 
           <title>iamtakagi.net</title>
           <meta property="og:title" content="iamtakagi.net" />
-          <meta property="og:description" content="iamtakagi.net" />
-          <meta property="og:url" content="" />
-          <meta property="og:image" content="" />
-          <meta name="twitter:card" content="summary" />
+          <meta property="og:description" content="iamtakagi.netu" />
+          <meta property="og:url" content="https://iamtakagi.net/" />
+          <meta property="og:image" content="https://iamtakagi.net/og.svg" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content="iamtakagi.net"/>
+          <meta name="twitter:description" content="iamtakagi.net" />
+          <meta name="twitter:site" content="@iam_takagi"/>
+
+          <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+          <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+          <link rel="manifest" href="/site.webmanifest"/>
+          <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"/>
+          <meta name="msapplication-TileColor" content="#da532c"/>
+          <meta name="theme-color" content="#ffffff"/>
+
         </Head>
         <body className="min-h-screen">
           <Main />
