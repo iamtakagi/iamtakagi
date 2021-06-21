@@ -31,8 +31,8 @@ class Document extends NextDocument {
           <meta property="og:title" content="iamtakagi.net" />
           <meta property="og:description" content="iamtakagi.netu" />
           <meta property="og:url" content="https://iamtakagi.net/" />
-          <meta property="og:image" content="https://iamtakagi.net/og.svg" />
-          <meta name="twitter:card" content="summary_large_image" />
+          <meta property="og:image" content="https://iamtakagi.net/icon.png" />
+          <meta name="twitter:card" content="summary" />
           <meta name="twitter:title" content="iamtakagi.net"/>
           <meta name="twitter:description" content="iamtakagi.net" />
           <meta name="twitter:site" content="@iam_takagi"/>
@@ -44,7 +44,6 @@ class Document extends NextDocument {
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"/>
           <meta name="msapplication-TileColor" content="#da532c"/>
           <meta name="theme-color" content="#ffffff"/>
-
         </Head>
         <body className="min-h-screen">
           <Main />
