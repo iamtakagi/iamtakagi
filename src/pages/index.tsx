@@ -60,7 +60,7 @@ const IndexPage: React.VFC<{}> = () => {
   const accountList = accounts.map((account, i) => (
     <li className="text-sm" key={i}>
       {account.name}:{" "}
-      <a className="underline text-blue-600" href={account.url}>
+      <a className="underline text-blue-500" href={account.url}>
         {account.label}
       </a>
     </li>
@@ -68,7 +68,7 @@ const IndexPage: React.VFC<{}> = () => {
 
   const productList = products.map((product, i) => (
     <li className="text-sm" key={i}>
-      <a className="underline text-blue-600" href={product.url}>
+      <a className="underline text-blue-500" href={product.url}>
         {product.label}
       </a>
       : {product.description}
