@@ -59,7 +59,7 @@ const products = [
 
 const IndexPage: React.VFC<{}> = () => {
 
-  const accountList = accounts.map((account) => (
+  const accountList = accounts.map((account, i) => (
     <li className="text-sm">
       {account.name}:{" "}
       <a className="underline" href={account.url}>
@@ -68,7 +68,7 @@ const IndexPage: React.VFC<{}> = () => {
     </li>
   ))
 
-  const productList =  products.map((product) => (
+  const productList =  products.map((product, i) => (
     <li className="text-sm">
       <a className="underline" href={product.url}>
         {product.label}
@@ -96,7 +96,7 @@ const IndexPage: React.VFC<{}> = () => {
         <p className="text-lg">Accounts / アカウント</p>
 
         {accountList}
-        
+
       </div>
 
       <div className="desc w-full my-6 space-y-1 text-left">
