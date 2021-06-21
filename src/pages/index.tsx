@@ -19,7 +19,12 @@ const accounts = [
   {
     name: "Annict",
     url: " https://annict.jp/@Takagi",
-    label: " https://annict.jp/@Takagi",
+    label: "https://annict.jp/@Takagi",
+  },
+  {
+    name: "Blog",
+    url: " https://blog.iamtakagi.net",
+    label: "https://blog.iamtakagi.net",
   },
   {
     name: "Discord Server",
