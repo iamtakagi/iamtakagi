@@ -58,6 +58,25 @@ const products = [
 ];
 
 const IndexPage: React.VFC<{}> = () => {
+
+  const accountList = accounts.map((account) => (
+    <li className="text-sm">
+      {account.name}:{" "}
+      <a className="underline" href={account.url}>
+        {account.label}
+      </a>
+    </li>
+  ))
+
+  const productList =  products.map((product) => (
+    <li className="text-sm">
+      <a className="underline" href={product.url}>
+        {product.label}
+      </a>
+      : {product.description}
+    </li>
+  ))
+
   return (
     <div className="container mx-auto text-left">
       <div className="mt-5">
@@ -76,26 +95,14 @@ const IndexPage: React.VFC<{}> = () => {
       <div className="desc w-full my-6 space-y-1 text-left">
         <p className="text-lg">Accounts / アカウント</p>
 
-        {accounts.map((account) => (
-          <li className="text-sm">
-            {account.name}:{" "}
-            <a className="underline" href={account.url}>
-              {account.label}
-            </a>
-          </li>
-        ))}
+        {accountList}
+        
       </div>
 
       <div className="desc w-full my-6 space-y-1 text-left">
         <p className="text-lg">Products / 作ったもの</p>
-        {products.map((product) => (
-          <li className="text-sm">
-            <a className="underline" href={product.url}>
-              {product.label}
-            </a>
-            : {product.description}
-          </li>
-        ))}
+
+        {productList}
       </div>
 
       <div className="desc w-full my-6 space-y-1 text-left">
