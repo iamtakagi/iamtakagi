@@ -5,7 +5,7 @@ import ThemeSwitch from "../widgets/ThemeSwitch";
 
 export const Footer: React.VFC<{}> = () => {
   return (
-    <div className="desc w-full my-6 space-y-1 mt-7">
+    <footer className="desc w-full my-6 space-y-1 mt-7">
       <a
         className="text-sm underline"
         href="https://github.com/iamtakagi-net/iamtakagi.net"
@@ -13,6 +13,6 @@ export const Footer: React.VFC<{}> = () => {
         View code of this page
         <FiGithub className="inline block ml-1" />
       </a>
-    </div>
+    </footer>
   );
 };
