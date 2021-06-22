@@ -11,6 +11,7 @@ export const Footer: React.VFC<{}> = () => {
         View code of this page
         <FiGithub className="inline block ml-1" />
       </a>
+      <p className="text-sm">© 2021- takagi</p>
     </footer>
   );
 };
