@@ -7,9 +7,9 @@ import Document, {
   DocumentContext,
 } from "next/document";
 
-const ogImageUrl = 'https://iamtakagi.net/og-image.png'
+const ogImageUrl = "https://iamtakagi.net/og-image.png";
 
-class MyDocument extends Document  {
+class MyDocument extends Document {
   static async getInitialProps(context: DocumentContext) {
     const initialProps = await Document.getInitialProps(context);
     return { ...initialProps };
@@ -19,7 +19,7 @@ class MyDocument extends Document  {
     return (
       <Html lang="en">
         <Head>
-        <meta charSet="utf-8" />
+          <meta charSet="utf-8" />
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"
