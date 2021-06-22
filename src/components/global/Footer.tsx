@@ -1,7 +1,5 @@
-import React from "react";
-import { BiLinkExternal } from "react-icons/bi";
+import * as React from "react";
 import { FiGithub } from "react-icons/fi";
-import ThemeSwitch from "../widgets/ThemeSwitch";
 
 export const Footer: React.VFC<{}> = () => {
   return (
