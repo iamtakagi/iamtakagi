@@ -1,10 +1,11 @@
 import * as React from "react";
 
 const developments = [
+  
   {
-    label: "Animelist Generator",
-    url: "https://github.com/iamtakagi-net/animelist-generator",
-    description: "アニメリストを生成するWebアプリ",
+    label: "Dispotify",
+    url: "https://github.com/iamtakagi/dispotify",
+    description: "Spotify to Discord notifier / Spotifyで再生中の音楽をDiscordに通知するWebアプリ",
   },
   {
     label: "火曜日になりました 絶滅",
