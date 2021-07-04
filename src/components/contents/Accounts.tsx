@@ -34,7 +34,7 @@ const accounts = [
   {
     name: "Discord Server",
     url: "https://discord.gg/XSwGKpYcgn",
-    label: "Invite Link",
+    label: "https://discord.gg/XSwGKpYcgn",
   },
 ];
 
