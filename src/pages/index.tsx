@@ -8,7 +8,6 @@ import { Contact } from "../components/contents/Contact";
 const IndexPage: React.VFC<{}> = () => {
   return (
     <>
-      <Top />
       <Accounts />
       <Developments />
       <Contact />
