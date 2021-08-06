@@ -2,8 +2,13 @@ import * as React from "react";
 
 const developments = [
   {
+    label: "anyboard",
+    url: "https://github.com/iamtakagi/anyboard",
+    description: "掲示板",
+  },
+  {
     label: "火曜日になりました 絶滅",
-    url: "https://github.com/iamtakagi-net/kayoubi-zetsumetsu",
+    url: "https://github.com/iamtakagi/kayoubi-zetsumetsu",
     description: "火曜日になりました 絶滅 #kayoubi_zetsumetsu for Twitter App",
   },
   {
