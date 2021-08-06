@@ -7,6 +7,11 @@ const developments = [
     description: "掲示板",
   },
   {
+    label: "spotify2image",
+    url: "https://github.com/iamtakagi/spotify2image",
+    description: "Spotify embed to image",
+  },
+  {
     label: "火曜日になりました 絶滅",
     url: "https://github.com/iamtakagi/kayoubi-zetsumetsu",
     description: "火曜日になりました 絶滅 #kayoubi_zetsumetsu for Twitter App",
@@ -14,7 +19,7 @@ const developments = [
   {
     label: "びく民bot",
     url: "https://github.com/iamtakagi/bikumin",
-    description: "マリオカート8DX 大規模模擬Discord鯖bot",
+    description: "マリオカート8DX びく民鯖 Bot",
   },
   {
     label: "単語を覚えるれんちょんbot",
