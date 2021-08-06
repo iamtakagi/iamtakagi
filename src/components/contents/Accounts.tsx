@@ -12,12 +12,12 @@ const accounts = [
     label: "https://scrapbox.io/iamtakagi",
   },
   {
-    name: "GitHub Personal",
+    name: "GitHub",
     url: "https://github.com/iamtakagi",
     label: "https://github.com/iamtakagi",
   },
   {
-    name: "GitHub Organization",
+    name: "GitHub Org",
     url: "https://github.com/iamtakagi-net",
     label: "https://github.com/iamtakagi-net",
   },
