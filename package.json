@@ -34,7 +34,7 @@
     "eslint-formatter-friendly": "7.0.0",
     "eslint-plugin-react": "7.22.0",
     "eslint-plugin-react-hooks": "4.2.0",
-    "postcss": "8.2.4",
+    "postcss": "8.2.10",
     "prettier": "2.2.1",
     "tailwindcss": "2.0.2",
     "tailwindcss-dark-mode": "^1.1.7",
