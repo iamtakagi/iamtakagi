@@ -8,4 +8,4 @@
 [![pull requests](https://img.shields.io/github/issues-pr/iamtakagi-net/iamtakagi.net)](https://github.com/iamtakagi-net/iamtakagi.net/pulls)
 
 ## LICENSE
-iamtakagi-net/iamtakagi.net is provided under the MIT license.
+iamtakagi/iamtakagi.net is provided under the MIT license.
