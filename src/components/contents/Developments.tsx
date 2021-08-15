@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 
 const developments = [
   {
@@ -38,7 +38,7 @@ const developments = [
   },
 ];
 
-export const Developments: React.VFC<{}> = () => {
+export const Developments: React.FC<{}> = () => {
   return (
     <div className="desc w-full my-6 space-y-1 text-left">
       <p className="text-lg">Developments / 作ったもの</p>

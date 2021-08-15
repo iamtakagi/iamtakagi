@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import Switch from "react-switch";
 import { FiMoon, FiSun } from "react-icons/fi";
 import useDarkMode from "use-dark-mode";

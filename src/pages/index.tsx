@@ -1,11 +1,10 @@
 import React from "react";
 
-import { Top } from "../components/contents/Top";
-import { Accounts } from "../components/contents/Accounts";
-import { Developments } from "../components/contents/Developments";
-import { Contact } from "../components/contents/Contact";
+import { Accounts } from "../components/contents/accounts";
+import { Developments } from "../components/contents/developments";
+import { Contact } from "../components/contents/contact";
 
-const IndexPage: React.VFC<{}> = () => {
+const IndexPage: React.FC<{}> = () => {
   return (
     <>
       <Accounts />

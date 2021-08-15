@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 
 const accounts = [
   {
@@ -27,18 +27,23 @@ const accounts = [
     label: "https://annict.jp/@Takagi",
   },
   {
+    name: "Instagram",
+    url: "https://www.instagram.com/iam_takagi",
+    label: "https://www.instagram.com/iam_takagi",
+  },
+  {
     name: "Blog",
     url: " https://blog.iamtakagi.net",
     label: "https://blog.iamtakagi.net",
   },
   {
-    name: "Discord Server",
+    name: "Discord",
     url: "https://discord.gg/XSwGKpYcgn",
     label: "https://discord.gg/XSwGKpYcgn",
   },
 ];
 
-export const Accounts: React.VFC<{}> = () => {
+export const Accounts: React.FC<{}> = () => {
   return (
     <div className="desc w-full my-6 space-y-1 text-left">
       <p className="text-lg">Accounts / アカウント</p>

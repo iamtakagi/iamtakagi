@@ -1,17 +1,12 @@
-import * as React from "react";
-import { AppProps } from "next/app";
+import  React from "react";
 
-import "../styles/main.css";
+import "../styles/tailwind.scss";
+import "../styles/main.scss";
 
-import { Header } from "../components/global/Header";
-import { Footer } from "../components/global/Footer";
+import { Layout } from "../components/layout";
 
-const App: React.VFC<AppProps> = ({ Component, pageProps }: AppProps) => (
-  <div className="container mx-auto text-left">
-    <Header />
-    <Component {...pageProps} />
-    <Footer />
-  </div>
+const App: React.FC<{ Component, pageProps }> = ({ Component, pageProps }) => (
+  <Layout Component={Component} pageProps={pageProps} />
 );
 
 export default App;

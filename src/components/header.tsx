@@ -1,8 +1,7 @@
-import { Head } from "next/document";
-import * as React from "react";
-import ThemeSwitch from "../widgets/ThemeSwitch";
+import React from "react";
+import ThemeSwitch from "./theme-switch";
 
-export const Header: React.VFC<{}> = () => {
+export const Header: React.FC<{}> = () => {
   return (
     <header className="flex">
       <div className="desc w-full my-6 space-y-1">
