@@ -28,8 +28,8 @@ const accounts = [
   },
   {
     name: "Instagram",
-    url: "https://www.instagram.com/iam_takagi",
-    label: "https://www.instagram.com/iam_takagi",
+    url: "https://instagram.com/iam_takagi",
+    label: "https://instagram.com/iam_takagi",
   },
   {
     name: "Blog",
