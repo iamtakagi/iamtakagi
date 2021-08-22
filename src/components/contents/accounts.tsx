@@ -23,8 +23,8 @@ const accounts = [
   },
   {
     name: "Annict",
-    url: " https://annict.jp/@Takagi",
-    label: "https://annict.jp/@Takagi",
+    url: " https://annict.com/@Takagi",
+    label: "https://annict.com/@takagi",
   },
   {
     name: "Instagram",
