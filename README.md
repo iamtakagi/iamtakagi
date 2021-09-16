@@ -5,4 +5,4 @@
 
 Language: [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.jp/), [Kotlin](https://kotlinlang.org/), [Java](https://www.java.com/ja/)
 
-Editor: [Visual Studio Code](https://code.visualstudio.com/), [Intellij IDEA](https://www.jetbrains.com/ja-jp/idea/)
+Editor: [VS Code](https://code.visualstudio.com/), [Intellij IDEA](https://www.jetbrains.com/ja-jp/idea/)
