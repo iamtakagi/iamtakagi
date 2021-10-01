@@ -8,7 +8,6 @@ const IndexPage: React.FC<{}> = () => {
   return (
     <>
       <Accounts />
-      <Developments />
       <Contact />
     </>
   );
