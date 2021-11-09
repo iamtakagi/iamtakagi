@@ -1,0 +1,17 @@
+p {
+    white-space: pre-line;
+    line-height: 2;
+}
+  
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid gray;
+}
+
+th, td {
+    padding: 8px;
+}
+  
