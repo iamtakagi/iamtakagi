@@ -1,4 +1,4 @@
 # iamtakagi.net
 
-## Licence
-iamtakagi/iamtakagi.net is provided under the MIT license.
+## LICENSE
+MIT License.
