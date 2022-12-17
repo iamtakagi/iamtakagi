@@ -24,7 +24,10 @@
     <meta name="theme-color" content="#ffffff" />
     <script>
       window.addEventListener("DOMContentLoaded", () => {
-        document.querySelector("footer").innerText = `(c) 2020-${new Date().getFullYear()} iamtakagi`
+        // Copyright
+        const baseYear = 2020
+        const thisYear = new Date().getFullYear()
+        document.querySelector("#copyright").innerHTML = `(c) ${baseYear + (baseYear == thisYear ? "" : "-" + thisYear)} iamtakagi`
       })
     </script>
   </head>
@@ -71,6 +74,8 @@
         </div>
       </section>
     </main>
-    <footer></footer>
+    <footer>
+      <span id="copyright"></span>
+    </footer>
   </body>
 </html>
