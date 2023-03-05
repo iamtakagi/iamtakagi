@@ -25,19 +25,18 @@
     <script>
       window.addEventListener("DOMContentLoaded", () => {
         // Copyright
-        const baseYear = 2011
-        const thisYear = new Date().getFullYear()
-        document.querySelector("#copyright").innerHTML = `(c) ${baseYear + (baseYear == thisYear ? "" : "-" + thisYear)} iamtakagi`
-      })
+        const baseYear = 2011;
+        const thisYear = new Date().getFullYear();
+        document.querySelector("#copyright").innerHTML = `(c) ${
+          baseYear + (baseYear == thisYear ? "" : "-" + thisYear)
+        } iamtakagi`;
+      });
     </script>
   </head>
   <body>
     <main>
       <section>
-        <section style="margin-bottom: .8rem;">
-          <h1>iamtakagi</h1>
-          <p>middle engineer</p>
-        </section>
+        <h1>iamtakagi.net</h1>
         <table>
           <thead>
             <tr>
@@ -74,7 +73,7 @@
         </table>
         <div style="margin-top: 1rem">
           <a
-            style="font-size: .9rc"
+            style="font-size: 0.9rc"
             href="https://scrapbox.io/iamtakagi/About"
           >
             その他、各種リンクはこちら
