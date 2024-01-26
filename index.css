@@ -13,10 +13,16 @@ h1 {
 
 main {
   min-height: 90vh;
+  min-width: 290px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+footer {
+  min-width: 290px;
 }
 
 main img[alt="iamtakagi_cat_girl"] {
@@ -53,6 +59,7 @@ li {
 
 table {
   border-collapse: collapse;
+  min-width: 290px;
 }
 
 table,
