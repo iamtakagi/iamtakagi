@@ -1,12 +1,54 @@
 * {
-  font-family: "YakuHanJPs", "Open Sans", "Hiragino Sans", "Noto Sans JP",
-    sans-serif;
-  font-weight: 500;
+  font-family: "Hiragino Sans";
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 1.3rem;
+  margin-bottom: .7rem;
+  line-height: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+main {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+main img[alt="iamtakagi_cat_girl"] {
+  width: 7rem;
+  margin-right: .5rem;
+  border-radius: 9999px;
+}
+
+main img[alt="banner_1"] {
+  margin-top: 1rem;
 }
 
 p {
-  white-space: pre-line;
-  line-height: 2;
+  font-weight: 500;
+  font-size: .9rem;
+  margin: 0;
+}
+
+ul {
+  font-weight: 200;
+  font-size: .9rem;
+  margin-top: .1rem;
+  padding-top: .1rem;
+  margin-left: .6rem;
+  padding-left: .6rem;
+  margin-bottom: .3rem;
+  padding-bottom: .3rem;
+}
+
+li {
+  font-size: .9rem;
+  font-weight: 200;
 }
 
 table {
@@ -16,7 +58,7 @@ table {
 table,
 th,
 td {
-  border: 1px solid gray;
+  border: .5px solid black;
 }
 
 th,
@@ -24,6 +66,12 @@ td {
   padding: 8px;
 }
 
-footer {
-  margin-top: 10px;
+th {
+  font-weight: 500;
+  font-size: .9rem;
+}
+
+td {
+  font-weight: 200;
+  font-size: .9rem;
 }
