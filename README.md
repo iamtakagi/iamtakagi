@@ -1,4 +1,0 @@
-# iamtakagi
-
-## LICENSE
-MIT License.
