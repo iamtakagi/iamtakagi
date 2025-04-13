@@ -1,4 +1,4 @@
-# iamtakagi.net
+# iamtakagi
 
 ## LICENSE
 MIT License.
